@@ -6,8 +6,8 @@ const globalSate = configureStore({
   reducer: {
     contacts: contactsReducer,
     filter: filterReducer
-  },
-  devTools: process.env.NODE_ENV !== "production"
+  }
+  //   devTools: process.env.NODE_ENV !== "production"
 });
 
 export default globalSate;

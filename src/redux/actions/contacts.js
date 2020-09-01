@@ -1,7 +1,7 @@
 import { createAction } from "@reduxjs/toolkit";
 
-export const addContact = createAction("ADD_CONTACT");
+export const addContact = createAction("contact/add");
 
-export const deleteContact = createAction("DELETE_CONTACT");
+export const deleteContact = createAction("contact/delete");
 
-export const uploadContactList = createAction("UPLOAD_CONTACT_LIST");
+export const uploadContactList = createAction("contact/upload");
