@@ -1,16 +1,7 @@
-import { ADD_CONTACT, DELETE_CONTACT, UPLOAD_CONTACT_LIST } from "../types";
+import { createAction } from "@reduxjs/toolkit";
 
-export const addContact = contact => ({
-  type: ADD_CONTACT,
-  payload: contact
-});
+export const addContact = createAction("ADD_CONTACT");
 
-export const deleteContact = id => ({
-  type: DELETE_CONTACT,
-  payload: id
-});
+export const deleteContact = createAction("DELETE_CONTACT");
 
-export const uploadContactList = contacts => ({
-  type: UPLOAD_CONTACT_LIST,
-  payload: contacts
-});
+export const uploadContactList = createAction("UPLOAD_CONTACT_LIST");
