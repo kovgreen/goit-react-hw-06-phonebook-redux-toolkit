@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e226c804fa3f9a88aa96cab1d8f5ec3a",
+    "revision": "ede835b2e311b3f53e0008c48087e1fd",
     "url": "/goit-react-hw-06-phonebook-redux-toolkit/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-06-phonebook-redux-toolkit/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "e9b6b7450f0c7ec39913",
+    "revision": "dbc226e771fdf3732a53",
     "url": "/goit-react-hw-06-phonebook-redux-toolkit/static/css/main.451f8a7c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/2.e6e3d774.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9b6b7450f0c7ec39913",
-    "url": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/main.c42901b9.chunk.js"
+    "revision": "dbc226e771fdf3732a53",
+    "url": "/goit-react-hw-06-phonebook-redux-toolkit/static/js/main.f00b8641.chunk.js"
   },
   {
     "revision": "3c4cc8a40cc593779d59",
